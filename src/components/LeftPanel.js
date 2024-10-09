@@ -4,7 +4,7 @@ const LeftPanel = () => {
   return (
     <div className="left-panel">
       <h2>Findings</h2>
-      <img src="wsi.png" height="200" width="250" />
+      
       {/* Table 1 */}
       <h3>Table 1: </h3>
       <table>

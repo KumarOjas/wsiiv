@@ -8,7 +8,7 @@ const MainViewer = () => {
       prefixUrl: 'https://openseadragon.github.io/openseadragon/images/',
       tileSources: {
         type: 'image',
-        url: 'https://via.placeholder.com/1000', // Replace with actual slide image URL
+        url: 'wsi.png', // Replace with actual slide image URL
       },
       showNavigator: true,
       defaultZoomLevel: 1,
